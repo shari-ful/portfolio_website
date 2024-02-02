@@ -15,7 +15,7 @@
     "details": [
       {
         "title": "Birthday",
-        "info": "May 07, 1990"
+        "info": "Feb 10, 1996"
       },
       {
         "title": "Phone",
@@ -499,13 +499,13 @@
       },
       {
         "title": "Junior Software Engineer",
-        "duration": "Jan 2022 - Jun 2023",
+        "duration": "Nov 2021 - Jun 2023",
         "subTitle": "Langosh, Sipes and Raynor",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
       },
       {
-        "title": "Embedded Software Engineer",
-        "duration": "My 2021 - December 2021",
+        "title": "Trainee Software Engineer",
+        "duration": "May 2021 - Oct 2021",
         "subTitle": "Strosin, Maggio and Homenick",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
       }
@@ -514,20 +514,14 @@
     "education": [
       {
         "title": "Master of Computer Science",
-        "duration": "2023 - Present",
-        "subTitle": "University of XYZ",
+        "duration": "Jan 2023 - Present",
+        "subTitle": "Jahangirnagar University",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
       },
       {
         "title": "Bachelor of Computer Science",
-        "duration": "2017 - 2021",
+        "duration": "Jan 2017 - Dec 2020",
         "subTitle": "Shahjalal University of Science and Technology",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
-      },
-      {
-        "title": "Diploma in Computer Science",
-        "duration": "2006 - 2010",
-        "subTitle": "XYZ Institution",
         "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
       }
     ]
@@ -542,7 +536,7 @@
     {
       "icon": "SW",
       "title": "Showwcase",
-      "link": "https://www.showwcase.com/shariful"
+      "link": "https://shariful.showwcase.com/"
     },
     {
       "icon": "twitter",
